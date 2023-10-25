@@ -1,0 +1,8 @@
+# Ignorer les fichiers de métadonnées Unity
+*.meta
+
+# Ignorer la bibliothèque de Unity (si vous ne la partagez pas)
+Library/
+
+# Ignorer les fichiers de sauvegarde Unity
+*.bak
